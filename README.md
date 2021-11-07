@@ -2,8 +2,8 @@
 > In this project our task was to get a dataset to build a classification model on. We choose to analysis a data set of a bank to determine if the customers will subscribe to a service the bank is offering. Our target will be (yes or no), as a result, the type of the model we will build is a binary classification model. The dataset will be obtained from the uci.edu website and will consist of 45212 rows and 17 columns in total.
 - https://archive.ics.uci.edu/ml/datasets/bank+marketing
 ## The Approach:
-analyzing the dataset using EDA techniques.
-Building a classification model to predict the people who are most likely to subscribe to the service the bank is offering.
+> analyzing the dataset using EDA techniques.
+> Building a classification model to predict the people who are most likely to subscribe to the service the bank is offering.
 
 ### Classification:
 ___
